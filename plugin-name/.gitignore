@@ -1,0 +1,4 @@
+node_modules/
+vendor/
+block-editor/dist
+.vscode
